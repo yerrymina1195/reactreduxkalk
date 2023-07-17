@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "title": "frerej",
+      "author": "user42",
+      "content": "gfwxjfsqyjxfqs",
+      "id": "jsZ5mLb",
+      "liked": false,
+      "likes": 1
+    },
+    {
+      "title": "uqdgiugduqig",
+      "author": "user42",
+      "content": "vhqksvskhqsh",
+      "id": "lVaRqh-",
+      "liked": false,
+      "likes": 1
+    },
+    {
+      "title": "moi sqdg",
+      "author": "user42",
+      "content": "sqyfyqs",
+      "id": "NNDXXSw",
+      "liked": false,
+      "likes": 1
+    },
+    {
+      "title": "Lorem ipsum dolor",
+      "author": "Denis",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti!Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati voluptates non, odit, sequi sit pariatur iusto modi magni dolorem, cupiditate corrupti! Recusandae quaerat vitae fugiat mollitia blanditiis, temporibus eum! Ipsum?",
+      "id": "3",
+      "liked": true,
+      "likes": 107
+    }
+  ],
+  "user": [
+    {
+      "pseudo": "user42",
+      "likes": 150,
+      "age": 27,
+      "id": 1
+    }
+  ]
+}
